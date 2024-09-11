@@ -1,1 +1,1 @@
-This file contains information about the project
+This file contain information that will make a merge conflict appear.
